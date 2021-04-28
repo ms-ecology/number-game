@@ -1,2 +1,11 @@
 # number-game
-a simple number game base on myshell
+
+## Usage
+
+```sh
+npm i myshell -g # if you are installed, skip this step
+
+ms add number-game # install game
+
+ms number-game # play
+```

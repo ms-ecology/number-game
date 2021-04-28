@@ -1,0 +1,7 @@
+{
+  "number-game": {
+    "type": "shell",
+    "desc": "a simple little game",
+    "path": "./number-game.sh"
+  }
+}
